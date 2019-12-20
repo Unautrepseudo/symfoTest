@@ -1,0 +1,13 @@
+.nav li a{
+    font-size:3vh !important;
+    background:rgba(9, 145, 111, 0.527)!important;
+    clip-path: polygon(53% 18%, 92% 23%, 100% 43%, 94% 78%, 68% 100%, 57% 79%, 6% 78%, 0% 43%, 17% 12%);
+
+
+
+}
+
+.nav li a:hover{
+    background:rgba(3, 3, 3, 0.363)!important;
+    border-radius: 60%;
+}
