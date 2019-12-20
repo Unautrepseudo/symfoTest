@@ -11,3 +11,31 @@
     background:rgba(3, 3, 3, 0.363)!important;
     border-radius: 60%;
 }
+
+.titre{
+    font-size:10vh;
+    margin-top: 25vh;
+    color:rgb(255, 254, 254);
+}
+
+.cd-hero
+{
+    clip-path: polygon(29% 0, 35% 12%, 100% 13%, 100% 69%, 100% 100%, 50% 97%, 0 100%, 0% 70%, 0 32%, 1% 0)
+    !important;
+}
+
+body{
+    background-image: url(body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.page-section{
+background:rgba(0, 0, 0, 0.712) !important;
+}
+
+#fun-facts{
+    background:rgba(88, 87, 87, 0.712) !important;
+
+}
